@@ -6,3 +6,12 @@ patch:
   'npm:semver:20150403':
     - '@ionic/app-scripts > rollup-plugin-node-builtins > browserify-fs > levelup > semver':
         patched: '2018-06-13T00:16:22.659Z'
+  'npm:hoek:20180212':
+    - '@ionic/app-scripts > node-sass > node-gyp > request > hawk > hoek':
+        patched: '2018-06-19T00:16:42.161Z'
+    - '@ionic/app-scripts > node-sass > node-gyp > request > hawk > boom > hoek':
+        patched: '2018-06-19T00:16:42.161Z'
+    - '@ionic/app-scripts > node-sass > node-gyp > request > hawk > sntp > hoek':
+        patched: '2018-06-19T00:16:42.161Z'
+    - '@ionic/app-scripts > node-sass > node-gyp > request > hawk > cryptiles > boom > hoek':
+        patched: '2018-06-19T00:16:42.161Z'
